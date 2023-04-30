@@ -11,6 +11,10 @@ client.once(Events.ClientReady, c => {
 });
 
 client.login(token);
+
+// Coming soon! Branch checking!
+// Basically this would just be for logging messages to stdout rather than a proper dataset. A dry run, so to speak.
+
 // if(process.argv[2] == 'dev') {
 //     console.log('WARNING: Application is running in development mode. No training will be done.');
 // } else if(process.argv[2] == 'prod') {
