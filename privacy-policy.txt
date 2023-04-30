@@ -1,0 +1,1 @@
+This Discord bot does not log any messages, nor use messages to train, outside of specific staff-only channels.
