@@ -1,0 +1,19 @@
+{
+  "name": "lm-hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node .\\index.js dev",
+    "start": "node .\\index.js prod",
+    "lint": "eslint ."
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.39.0"
+  }
+}
